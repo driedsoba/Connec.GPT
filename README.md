@@ -9,7 +9,7 @@ nvm install --lts
 2. **Install Yarn globally (if it is not installed):**
 npm install --global yarn
 
-3. **To Install Dependencies using Yarn**
+3. **To Install Dependencies using Yarn:**
 yarn
 
 4. **Run the development server:**
