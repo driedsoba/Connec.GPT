@@ -16,6 +16,3 @@ yarn
 yarn dev
 
 After running `yarn dev`, your development server starts, allowing you to open the project in a web browser via the provided local server address.
-
-This setup ensures that all developers have a consistent environment, minimizing discrepancies and potential issues. 
-For any setup-related queries or assistance, don't hesitate to reach out to the project maintainers.
