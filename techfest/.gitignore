@@ -41,3 +41,6 @@ websocket-server/.yarn
 models
 
 trash.txt
+# env and editor files
+.env
+.vscode/
